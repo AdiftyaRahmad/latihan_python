@@ -1,3 +1,7 @@
+# Dibuat Oleh : Adiftya Rahmad
+# Tanggal Pengerjaan : 8 Oktober 2024
+# Program Menghitung Rumus Lingkaran
+
 print("="*40)
 print("PROGRAM LINGKARAN")
 print("="*40)
